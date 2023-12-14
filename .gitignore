@@ -1,0 +1,8 @@
+utils
+srcs/a.out
+a.out
+minilibx-linux/
+mlx_linux/
+.vscode/
+*.o
+fract-ol
